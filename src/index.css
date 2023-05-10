@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+#root {
+    min-height: 100vh;
+    height: 100%;
+    /*background-color: black;*/
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: #141414;*/
+    background-color: #EDEEF0;
+}
